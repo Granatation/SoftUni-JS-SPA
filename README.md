@@ -1,2 +1,2 @@
-# SoftUni-JS-SPA-App
+# SoftUni-JS-SPA
 First repo
